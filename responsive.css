@@ -28,6 +28,10 @@
         width: 100%;
     }
 
+    .btn-wrapper p {
+        text-align: center;
+    }
+
     .facebook {
         margin-bottom: 10px;
     }
@@ -42,7 +46,7 @@
 
     .top-wrapper p {
         font-size: 14px;
-        text-align: center;
+
     }
 
     .header-right {
