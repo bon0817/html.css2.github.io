@@ -5,6 +5,11 @@
         margin-bottom: 50px;
     }
 
+
+    footer {
+        text-align: center;
+    }
+
     .top-wrapper h1 {
        font-size: 32px;
     }
@@ -17,10 +22,6 @@
 @media(max-width: 670px) {
     .lesson {
         width: 100%;
-    }
-
-    footer {
-        text-align: center;
     }
 
     .btn {
@@ -41,6 +42,7 @@
 
     .top-wrapper p {
         font-size: 14px;
+        text-align: center;
     }
 
     .header-right {
